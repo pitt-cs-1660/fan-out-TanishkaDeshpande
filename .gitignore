@@ -221,3 +221,12 @@ __marimo__/
 
 # test files
 output-*
+
+# Local AWS setup artifacts (not part of assignment submission)
+bucket-policy.json
+lambda-trust-policy.json
+lambda-s3-policy.json
+sns-topic-policy.json
+s3-notification-config.json
+sqs-dlq-policy.json
+sqs-set-queue-attrs.json
